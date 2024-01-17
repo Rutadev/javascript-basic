@@ -1,0 +1,1 @@
+TextDecoderStream.apply.apply.apply.apply.apply.
